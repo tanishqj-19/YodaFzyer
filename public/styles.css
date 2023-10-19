@@ -1,0 +1,72 @@
+body{
+    background-image: url("stars.jpg");
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+textarea {
+    
+    height: 150px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.8);
+    resize: none;
+    display: flex;
+    box-align: center;
+    justify-content: center;
+    margin-left: 10%; 
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+/* Your existing styles go here */
+
+#outputBox {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+  }
+  
+  #outputBox h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #outputText {
+    font-size: 18px;
+  }
+  
+
+h1{
+   padding-bottom: 1.5%;
+} 
+h3{
+    padding-top: 2.5%;
+}
+
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+ 
+  
