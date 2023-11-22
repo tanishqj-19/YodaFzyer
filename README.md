@@ -4,15 +4,15 @@ The Yoda Translator Project is a fun and creative endeavor that aims to replicat
 A simple Yoda translator powered by a REST API and Node.js.This project is perfect for Star Wars enthusiasts and language enthusiasts alike, offering a lighthearted way to engage with the beloved Yoda character and add a touch of sci-fi flair to everyday communication.
 
 ## Usage
-Clone this repository to your local machine.  
-Install the required dependencies using npm install.  
-Start the application with npm start.  
-Open your web browser and visit http://localhost:3000 to use the Yoda translator.  
+  - Clone this repository to your local machine.  
+  - Install the required dependencies using npm install.  
+  - Start the application with npm start.  
+  - Open your web browser and visit http://localhost:3000 to use the Yoda translator.  
 
 ## Features
-Enter text to be translated into Yoda Speak.  
-Click the "Translate" button to get the translated text.  
-Enjoy the Star Wars theme as you translate your text!    
+  - Enter text to be translated into Yoda Speak.  
+  - Click the "Translate" button to get the translated text.  
+  - Enjoy the Star Wars theme as you translate your text!    
 
 ## Demo
 
