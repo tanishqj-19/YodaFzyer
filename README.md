@@ -16,7 +16,7 @@ A simple Yoda translator powered by a REST API and Node.js.This project is perfe
   - Click the "Translate" button to get the translated text.  
   - Enjoy the Star Wars theme as you translate your text!    
 
-## Demo
+## ScreenShot
 
 ![yoda2](https://github.com/tanishqj-19/YodaFzyer/assets/92851477/bf31b171-8fda-4155-83c9-7f35a4413640)  
 
